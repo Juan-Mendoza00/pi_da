@@ -25,8 +25,3 @@ Para este objetivo fueron utilizadas principalmente las librerias de python Pand
 Clone este repositorio o simplemente descargue los archivos de su interés. 
 
 Asegúrese de tener instaladas las herramientas adecuadas (Python, Visual Studio Code, PowerBi Desktop).
-
-## Informes y Visualizaciones
-
-
-
